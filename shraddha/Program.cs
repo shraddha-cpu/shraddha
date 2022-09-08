@@ -8,7 +8,7 @@ namespace shraddha
 {
     internal class Program
     {
-        static void Main(string[] args)
+         static void Main(string[] args)        
         {
             int n1 = 10, n2 = 20;
             int result = n1 + n2;
