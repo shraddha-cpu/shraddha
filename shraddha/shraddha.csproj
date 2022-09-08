@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>shraddha.Class19</StartupObject>
+    <StartupObject>shraddha.Class18</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
